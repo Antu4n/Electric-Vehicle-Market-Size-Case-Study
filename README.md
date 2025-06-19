@@ -88,7 +88,7 @@ The EV adoption transformation represents one of the most significant consumer b
 ### Product Development Strategy:
 
 - <b>Model Portfolio Expansion</b>: Focus on vehicle segments showing strong adoption growth patterns (SUVs, crossovers) based on Model Y and Model 3 popularity
-- <b>Feature Prioritization</b>: Emphasize electric range capabilities (>300 miles) as this correlates with higher adoption rates in the dataset
+- <b>Feature Prioritization</b>: Emphasize electric range capabilities (>150 miles) as this correlates with higher adoption rates in the dataset
 - <b>Market Positioning</b>: Target underserved segments where traditional manufacturers can compete effectively against Tesla's current offerings:
 
 ### Production Planning: 
