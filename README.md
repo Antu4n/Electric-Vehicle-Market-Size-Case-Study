@@ -33,7 +33,7 @@ The electric vehicle adoption landscape demonstrates exceptional growth momentum
 
 
 
-### Adoption Evolution and Consumer Acceptance Patterns
+### Adoption, Evolution and Consumer Acceptance Patterns
 The EV adoption curve reveals three distinct phases:
 - Early Adoption Phase (1997-2015): Limited consumer acceptance with niche market penetration
 - Acceleration Phase (2016-2020): Rapid adoption driven by technology improvements and policy support
@@ -44,7 +44,7 @@ The EV adoption curve reveals three distinct phases:
 
 ### Model Preference and Consumer Choice Patterns
 
-##### TESLA'S MODEL Y and MODEL 3 are the most popular models followed by the NISSAN'S LEAF 
+##### TESLA'S MODEL Y and MODEL 3 are the most popular models, followed by the NISSAN'S LEAF 
 - TESLA’s MODEL Y and MODEL 3 are the most registered vehicles, with MODEL Y having the highest number of registrations.
 
 - NISSAN’s LEAF is the third most registered model and the leading non-TESLA vehicle.
@@ -93,7 +93,7 @@ The EV adoption transformation represents one of the most significant consumer b
 
 ### Production Planning: 
 - <b>Capacity Scaling</b>: Align production capacity with ARIMA forecasts showing continued exponential adoption growth through 2027
-- <b>Geographic Focus</b>: Prioritize manufacturing and distribution in states showing highest registration growth rates
-<b>Timeline Strategy</b>: Accelerate time-to-market for new models to capture adoption momentum
+- <b>Geographic Focus</b>: Prioritize manufacturing and distribution in states showing the highest registration growth rates
+- <b>Timeline Strategy</b>: Accelerate time-to-market for new models to capture adoption momentum
 
-The comprehensive nature of this adoption analysis positions stakeholders to make informed decisions about the rapidly evolving EV landscape, providing competitive advantage through data-driven insights into consumer behavior and adoption patterns.
+The comprehensive nature of this adoption analysis positions stakeholders to make informed decisions about the rapidly evolving EV landscape, providing a competitive advantage through data-driven insights into consumer behavior and adoption patterns.
