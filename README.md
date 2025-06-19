@@ -93,7 +93,7 @@ The EV adoption transformation represents one of the most significant consumer b
 
 ### Production Planning: 
 - <b>Capacity Scaling</b>: Align production capacity with ARIMA forecasts showing continued exponential adoption growth through 2027
-<b>Geographic Focus</b>: Prioritize manufacturing and distribution in states showing highest registration growth rates
+- <b>Geographic Focus</b>: Prioritize manufacturing and distribution in states showing highest registration growth rates
 <b>Timeline Strategy</b>: Accelerate time-to-market for new models to capture adoption momentum
 
 The comprehensive nature of this adoption analysis positions stakeholders to make informed decisions about the rapidly evolving EV landscape, providing competitive advantage through data-driven insights into consumer behavior and adoption patterns.
