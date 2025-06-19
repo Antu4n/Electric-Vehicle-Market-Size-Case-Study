@@ -38,6 +38,8 @@ The EV adoption curve reveals three distinct phases:
 - Early Adoption Phase (1997-2015): Limited consumer acceptance with niche market penetration
 - Acceleration Phase (2016-2020): Rapid adoption driven by technology improvements and policy support
 - Mainstream Adoption Phase (2021-2024): Exponential growth with widespread consumer acceptance
+
+
 ![Regional Market Trends](images/year_trend.png)
 
 ### Model Preference and Consumer Choice Patterns
@@ -66,10 +68,12 @@ Historical Adoption Leadership Transitions:
 
 
 ![Top Manufacturers](images/top_manufacturers.png)
+
+
 ![Top Manufacturers Over the years](images/manufacturers_over_the_years.png)
 
 ### Technology Performance Indicators
-- Tesla Roadster: Premium segment leader at [X] miles average range
+- Tesla Roadster: Premium segment leader at 234 miles average range
 - Tesla Model S/X/3: Consistent top-tier performance
 - Chevrolet Bolt EV: Strong competitive positioning among non-Tesla models
 
@@ -91,9 +95,5 @@ The EV adoption transformation represents one of the most significant consumer b
 - <b>Capacity Scaling</b>: Align production capacity with ARIMA forecasts showing continued exponential adoption growth through 2027
 <b>Geographic Focus</b>: Prioritize manufacturing and distribution in states showing highest registration growth rates
 <b>Timeline Strategy</b>: Accelerate time-to-market for new models to capture adoption momentum
-
-
-
-
 
 The comprehensive nature of this adoption analysis positions stakeholders to make informed decisions about the rapidly evolving EV landscape, providing competitive advantage through data-driven insights into consumer behavior and adoption patterns.
