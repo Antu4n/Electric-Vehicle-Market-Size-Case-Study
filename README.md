@@ -97,3 +97,18 @@ The EV adoption transformation represents one of the most significant consumer b
 - <b>Timeline Strategy</b>: Accelerate time-to-market for new models to capture adoption momentum
 
 The comprehensive nature of this adoption analysis positions stakeholders to make informed decisions about the rapidly evolving EV landscape, providing a competitive advantage through data-driven insights into consumer behavior and adoption patterns.
+
+
+## Electric Vehicle Analysis Dashboard Using PowerBi 
+
+### Preview 
+![Dashboard](images/EV-Dashboard.png)
+
+The dashboard explores the Electric Vehicle adoption interactively using PowerBi as opposed to python libraries
+
+## How to Use
+- Clone the repository
+- Open the .pbix file on Power Bi Desktop 
+- Explore the dashboard report to gain insights on Electric Vehicle adoption over the years.
+
+
